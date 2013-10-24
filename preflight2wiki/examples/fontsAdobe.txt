@@ -1,0 +1,10 @@
+http://acroeng.adobe.com/Test_Files/fonts//EmbeddedCmap.pdf
+http://acroeng.adobe.com/Test_Files/fonts//TEXT.pdf
+http://acroeng.adobe.com/Test_Files/fonts//Type3_WWW-HTML.PDF
+http://acroeng.adobe.com/Test_Files/fonts//embedded_fonts.pdf
+http://acroeng.adobe.com/Test_Files/fonts//embedded_pm65.pdf
+http://acroeng.adobe.com/Test_Files/fonts//notembedded_pm65.pdf
+http://acroeng.adobe.com/Test_Files/fonts//printtestfont_nonopt.pdf
+http://acroeng.adobe.com/Test_Files/fonts//printtestfont_opt.pdf
+http://acroeng.adobe.com/Test_Files/fonts//substitution_fonts.pdf
+http://acroeng.adobe.com/Test_Files/fonts//text_images_pdf1.2.pdf

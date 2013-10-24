@@ -1,0 +1,3 @@
+http://acroeng.adobe.com/Test_Files/file_attachments//PDF___FileAttachment.pdf
+http://acroeng.adobe.com/Test_Files/file_attachments//non_ACRO___FileAttachment.pdf
+http://acroeng.adobe.com/Test_Files/file_attachments//non_PDF_ACRO___FileAttachment.pdf

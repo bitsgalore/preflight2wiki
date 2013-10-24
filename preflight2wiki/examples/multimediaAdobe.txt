@@ -1,0 +1,17 @@
+http://acroeng.adobe.com/Test_Files/classic_multimedia//20020402_CALOS.pdf
+http://acroeng.adobe.com/Test_Files/classic_multimedia//Disney-Flash.pdf
+http://acroeng.adobe.com/Test_Files/classic_multimedia//Jpeg_linked.pdf
+http://acroeng.adobe.com/Test_Files/classic_multimedia//MultiMedia_Acro6.pdf
+http://acroeng.adobe.com/Test_Files/classic_multimedia//MusicalScore.pdf
+http://acroeng.adobe.com/Test_Files/classic_multimedia//SVG-AnnotAnim.pdf
+http://acroeng.adobe.com/Test_Files/classic_multimedia//SVG.pdf
+http://acroeng.adobe.com/Test_Files/classic_multimedia//ScriptEvents.pdf
+http://acroeng.adobe.com/Test_Files/classic_multimedia//Service%20Form_media.pdf
+http://acroeng.adobe.com/Test_Files/classic_multimedia//Trophy.pdf
+http://acroeng.adobe.com/Test_Files/classic_multimedia//VolvoS40V50-Full.pdf
+http://acroeng.adobe.com/Test_Files/classic_multimedia//gXsummer2004-stream.pdf
+http://acroeng.adobe.com/Test_Files/classic_multimedia//phlmapbeta7.pdf
+http://acroeng.adobe.com/Test_Files/classic_multimedia//us_population.pdf
+http://acroeng.adobe.com/Test_Files/movie//movie.pdf
+http://acroeng.adobe.com/Test_Files/movie//movie_down1.pdf
+http://acroeng.adobe.com/Test_Files/movie//remotemovieurl.pdf

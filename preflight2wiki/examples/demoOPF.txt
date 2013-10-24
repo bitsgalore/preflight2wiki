@@ -1,0 +1,3 @@
+http://www.opf-labs.org/format-corpus/pdfCabinetOfHorrors/embedded_video_quicktime.pdf
+http://www.opf-labs.org/format-corpus/pdfCabinetOfHorrors/fileAttachment.pdf
+http://www.opf-labs.org/format-corpus/pdfCabinetOfHorrors/javascript.pdf
