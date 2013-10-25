@@ -228,8 +228,10 @@ def errorsToMarkdown(file, url, errors):
         noMessages=len(errors[key])
         for message in range(noMessages):
             # Escape any asterisks in output because they will mass up Markdown rendering
-            messageCleaned=errors[key][message].replace('*','\*')
-            tableRow += ("%s: %s" % (key, messageCleaned)) + "<br>"
+            messageText=errors[key][message]
+            if messageText != None:
+                messageText=messageText.replace('*','\*')
+            tableRow += ("%s: %s" % (key, messageText)) + "<br>"
         
     tableRow += "\n"
     
@@ -244,8 +246,8 @@ def errorsToConfluence(file, url, errors):
     for key in sorted(errors.keys()):
         noMessages=len(errors[key])
         for message in range(noMessages):
-            messageCleaned=errors[key][message]
-            tableRow += ("%s: %s" % (key, messageCleaned)) + " \\\\"
+            messageText=errors[key][message]
+            tableRow += ("%s: %s" % (key, messageText)) + " \\\\"
     tableRow += "\n"
     
     return(tableRow)
