@@ -57,5 +57,5 @@ Note that *all* files that are referenced in the input file will be downloaded t
 |[javascript.pdf](http://www.opf-labs.org/format-corpus/pdfCabinetOfHorrors/javascript.pdf)|1.0: Syntax error, Error: Expected a long type, actual='n'<br>1.1: Body Syntax error, Second line must contains at least 4 bytes greater than 127<br>
 
 ## Limitations
-I only created *preflight2wiki* to simplify my workflow in testing *Apache Preflight*, and I'm mainly using it for quickly creating simple reports. It hasn't had a lot of testing, and there are probably a lot of things that can go wrong. Output may also contain characters that mess up rendering of Markdown or Confluence. Use at your own risk!
+I only created *preflight2wiki* to simplify my workflow in testing *Apache Preflight*, and I'm mainly using it for quickly creating simple reports. It hasn't had a lot of testing, and there are probably a lot of things that can go wrong. Output may also contain characters that mess up rendering of Markdown or Confluence. Use at your own risk!!
 

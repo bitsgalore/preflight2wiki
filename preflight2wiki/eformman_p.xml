@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="eformman_p.pdf">
+  <executionTimeMS>3195</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="4887">
+    <error count="24">
+      <code>2.2.1</code>
+      <details>Invalid Graphis transparency, Group has a transparency S entry or the S entry is null.</details>
+    </error>
+    <error count="1">
+      <code>1.4.8</code>
+      <details>Trailer Syntax error, A Catalog shall not contain the OCPProperties entry.</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="16">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="16">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="187">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="5">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="6">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="18">
+      <code>5.3.1</code>
+      <details>Invalid field value in an annotation definition, Only the N Appearance is authorized</details>
+    </error>
+    <error count="1">
+      <code>5.2.5</code>
+      <details>Forbidden field in an annotation definition</details>
+    </error>
+    <error count="227">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="39">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="108">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="203">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "CKKOCC+CMR9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "CKKMHC+CMSS10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "CKKMHC+CMSS10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "CKKMHC+CMSS10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "CKKMHC+CMSS10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="101">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "CKKMHC+CMSS10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "148" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="294">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="72">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="624">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="416">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="238">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="670">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="238">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="247">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="227">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "CKKMDB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="738">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>6.2.4</code>
+      <details>Action is forbidden, "A" must not be used in a Field dictionary</details>
+    </error>
+    <error count="1">
+      <code>6.2.5</code>
+      <details>Action is forbidden, The action JavaScript is forbidden</details>
+    </error>
+    <error count="1">
+      <code>6.2.2</code>
+      <details>Action is forbidden, Additional Action are forbidden</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+  </errors>
+</preflight>
